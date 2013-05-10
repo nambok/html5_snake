@@ -1,4 +1,4 @@
 html5_snake
 ===========
 
-see live demo http://jsfiddle.net/HFVts/.
+see live demo http://jsfiddle.net/HFVts/2/.
